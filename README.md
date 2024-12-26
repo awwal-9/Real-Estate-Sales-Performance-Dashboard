@@ -1,4 +1,22 @@
-gb
+DASHBOARD CREATED USING POWER-BI
+
+# Real Estate Sales Performance Dashboard
+
+This repository contains the project **Real Estate Sales Performance Dashboard**, which is designed to analyze and visualize real estate data spanning 2020 to 2022. The project focuses on transforming, cleaning, and analyzing real estate data to provide actionable insights for performance evaluation and decision-making.
+
+## Features
+
+### Dataset Overview
+- **Timeframe**: Data covers 3 years (2020, 2021, and 2022).
+- **Attributes**: Includes 21 features such as:
+  - Property ID, Sector, Construction Date
+  - Stage Name, Sales Agent, Revenue
+  - Project Name, City, Property Status, Payment Details, etc.
+- **Data Preparation**: 
+  - Removed null values and blank rows.
+  - Used the first row as headers.
+  - Cleaned and transformed the dataset for analysis.
+
 ### Dim Date Table
 - Introduced a **DimDate table** to manage date-related inconsistencies.
 - Ensured continuous, gap-free, and non-duplicate values for better sorting and analysis.
@@ -25,7 +43,7 @@ gb
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/awwal-9/Real-Estate-Sales-Performance-Dashboard.git
+   git clone https://github.com/username/repo-name.git
    ```
 2. Ensure your environment supports data visualization tools (e.g., Power BI, Tableau, or Python visualization libraries).
 3. Load the dataset and follow the analysis steps outlined in the project.
