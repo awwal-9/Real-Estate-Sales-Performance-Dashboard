@@ -43,7 +43,7 @@ This repository contains the project **Real Estate Sales Performance Dashboard**
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/awwal-9/Real-Estate-Sales-Performance-Dashboard.git
    ```
 2. Ensure your environment supports data visualization tools (e.g., Power BI, Tableau, or Python visualization libraries).
 3. Load the dataset and follow the analysis steps outlined in the project.
