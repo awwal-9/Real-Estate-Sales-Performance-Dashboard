@@ -1,4 +1,3 @@
-# Real-Estate-Sales-Performance-Dashboard
 Dashboard Create Using Power Bi
 
 # Real Estate Sales Performance Dashboard
